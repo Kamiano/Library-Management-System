@@ -29,4 +29,4 @@ MS SQL Server (Ensure MS SQL Server is installed and configured)
 This project is licensed under the MIT License.
 
 Contact Information
-For support or contributions, please contact [your-email@example.com].
+For support or contributions, please contact [jameskamiano@gmail.com].
